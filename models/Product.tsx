@@ -109,7 +109,7 @@ export const object1: Object1Item[] = [
   { id: 6, image: image6, price: 20, name: "dfsdfds" },
   { id: 7, image: image7, price: 20, name: "dfsdfds" },
   { id: 8, image: image8, price: 20, name: "dfsdfds" },
-  { id: 9, image: image9, price: 20, name: "dfsdfds" },
+  { id: 9, image: image9, price: 20, name: "333ffff" },
   { id: 10, image: image10, price: 20, name: "dfsdfds" },
   { id: 11, image: image11, price: 20, name: "dfsdfds" },
   // Add more object1 data as needed
